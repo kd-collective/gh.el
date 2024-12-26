@@ -5,6 +5,7 @@
 ;; Author: Yann Hodique <yhodique@gmail.com>
 ;; Keywords:
 ;; Homepage: https://github.com/sigma/gh.el
+;; Package-Requires: ((emacs "25.1") (pcache "0.4.2") (logito "0.1") (marshal "0.9.0") (cl-lib "0.3"))
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
